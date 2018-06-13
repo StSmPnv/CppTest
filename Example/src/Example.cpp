@@ -35,13 +35,13 @@ public:
 	}
 };
 
-//Check Test;
+Check Test;
 Potomok Test2;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-//	Test.Func1();
-//	Test.Func2();
+	Test.Func1();
+	Test.Func2();
 	Test2.Func2();
 	return 0;
 }
